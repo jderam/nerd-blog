@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jeremy's Nerd Blog
+
+Here I will share articles about my nerdy endeavors.
 
 You can use the [editor on GitHub](https://github.com/jderam/nerd-blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
